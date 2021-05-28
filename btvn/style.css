@@ -1,0 +1,107 @@
+table {
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: #d6d6d6;
+    border-width: 1px;
+    margin-left: 300px;
+}
+
+table tr th,
+td {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tieude {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #0000FF;
+    text-align: center;
+    font-weight: 700;
+}
+
+#hang1 {
+    background-color: #65A530;
+    color: #FFFFFF;
+    font-size: 14px;
+    text-align: center;
+    height: 40px;
+}
+
+#hang1cot1 {
+    width: 371px;
+}
+
+#hang1cot2 {
+    width: 226px;
+}
+
+#hang1cot3 {
+    width: 89px;
+}
+
+.left th {
+    text-align: left;
+}
+
+.left {
+    height: 32px;
+}
+
+#hang2 {
+    height: 32px;
+    background-color: #ffffbb;
+}
+
+tr:nth-child(3),
+tr:nth-child(4),
+tr:nth-child(5),
+tr:nth-child(6) {
+    background-color: #D5FFFF;
+}
+
+tr:nth-child(7) {
+    background-color: #E8F5DE;
+}
+
+tr:nth-child(8) {
+    background-color: #D7D7D7;
+}
+
+tr:nth-child(20),
+tr:nth-child(21),
+tr:nth-child(22) {
+    background-color: #FFEAEA;
+}
+
+tr:nth-child(5) {
+    height: 45px;
+}
+
+.red {
+    color: #ff0000;
+}
+
+.cot1 {
+    text-align: center;
+}
+
+#hangcuoi {
+    background-color: #65A530;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    height: 33px;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+#blue {
+    color: #0000ff;
+    margin-left: 200px;
+}
+
+#blue span {
+    font-weight: bold;
+}
